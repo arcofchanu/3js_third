@@ -1,0 +1,7 @@
+{
+  "name": "2D Butterfly Curve Visualizer",
+  "description": "An interactive 2D visualization of the Temple H. Fay butterfly curve using React Three Fiber with hand gesture control via MediaPipe.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
