@@ -48,7 +48,7 @@ const App: React.FC = () => {
       {/* Footer / Branding */}
       <div className="absolute bottom-4 right-4 z-20 text-right pointer-events-none">
         <h2 className="text-white/80 font-bold text-xl tracking-tight">Magic & Math</h2>
-        <p className="text-white/40 text-xs">Geometry Play Visualization</p>
+        <p className="text-white/40 text-xs">Geometrical Play and Fun</p>
       </div>
     </div>
   );
